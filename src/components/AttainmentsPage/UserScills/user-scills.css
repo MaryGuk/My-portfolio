@@ -1,0 +1,22 @@
+.scills-blog {
+  text-align: center;
+}
+
+.scills-title {
+  text-align: center;
+  font-family: "El Messiri", sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  padding-top: 10px;
+  color: rgb(145, 16, 16);
+}
+
+.scills-images {
+  display: flex;
+  justify-content: center;
+}
+
+.scills-images__row {
+  margin-top: -45px;
+  width: 1000px;
+}

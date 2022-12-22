@@ -1,0 +1,14 @@
+.user-name {
+  display: flex;
+}
+
+.user-name__button {
+  margin: 20px auto 0;
+  background-color: rgb(230, 230, 236);
+  font-family: "Chivo Mono", monospace;
+  font-size: 22px;
+  width: 210px;
+  background-color: rgb(101, 61, 61);
+  color: aliceblue;
+  border: none;
+}

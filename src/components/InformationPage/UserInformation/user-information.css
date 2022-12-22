@@ -1,0 +1,37 @@
+.information-blog {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.information-title {
+  text-align: center;
+  font-family: "El Messiri", sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  padding-top: 10px;
+  color: rgb(145, 16, 16);
+}
+
+.user-information {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.user-information__icon {
+  width: 350px;
+  height: 430px;
+  margin: 35px 55px;
+}
+
+.user-information__text {
+  padding-top: 32px;
+  width: 470px;
+  text-align: justify;
+  color: rgb(37, 8, 8);
+  /* font-family: "Marmelad", sans-serif; */
+  font-family: "El Messiri", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}

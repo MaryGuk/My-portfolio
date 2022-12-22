@@ -1,0 +1,36 @@
+.education-blog {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.education-title {
+  text-align: center;
+  font-family: "El Messiri", sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  padding-top: 10px;
+  color: rgb(145, 16, 16);
+}
+
+.education-information {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.education-information__image {
+  width: 650px;
+  height: 445px;
+  margin: 35px 25px;
+}
+
+.education-information__text {
+  padding-top: 75px;
+  width: 370px;
+  text-align: inherit;
+  color: rgb(37, 8, 8);
+  font-family: "El Messiri", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
