@@ -14,11 +14,11 @@ const UserEducation = () => {
           работы; <br />
           <br />
           Евгений Андриканич/Фрилансер по жизни:курс по вёрстке сайтов
-          (видеоуроки), HTML, CSS, JS, адаптивная и кроссбраузерная вёрстка
+          (видеоуроки). HTML, CSS, JS, адаптивная и кроссбраузерная вёрстка
           сайтов;
           <br />
         </div>
-        <img className="education-information__image" src="/images/ed.png" />
+        <img className="education-information__image" src="/images/ноут.png" />
       </div>
     </div>
   );

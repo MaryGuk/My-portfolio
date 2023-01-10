@@ -1,0 +1,25 @@
+.portfolio-blog {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.portfolio-title {
+  text-align: center;
+  font-family: "El Messiri", sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  padding-top: 10px;
+  color: rgb(145, 16, 16);
+}
+
+.portfolio-information {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.portfolio-information__image {
+  width: 300px;
+  height: 300px;
+}
